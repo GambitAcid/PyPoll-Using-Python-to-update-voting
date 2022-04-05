@@ -1,1 +1,0 @@
-#PyPoll and The Things
